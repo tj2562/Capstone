@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.3)
 
-project(Car_sample)
+project(car_sample)
 
 find_package(catkin REQUIRED)
 
